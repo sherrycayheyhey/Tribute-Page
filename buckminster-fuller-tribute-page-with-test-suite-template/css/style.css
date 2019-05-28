@@ -1,0 +1,64 @@
+body {
+  background: hsl(238, 61%, 24%);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 4rem;
+}
+h3 {
+  text-align: center;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+#subtitle {
+  color: hsl(46, 65%, 52%);
+  text-align: center;
+  font-size: 2rem
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+} 
+
+#img-div {
+  background: hsl(46, 65%, 52%);
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  text-align: center;
+}
+
+ul {
+  text-size: 2em;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 3rem;
+  max-width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  color: hsl(46, 65%, 52%);
+}
+
+#tribute-info{
+  background: hsl(46, 65%, 52%);
+}
